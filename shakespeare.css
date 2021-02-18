@@ -1,0 +1,33 @@
+.stateDire{
+    font-size:8px;
+    color: black;
+    font:italic
+}
+
+.stateDire:hover{
+    
+    color: blue;
+    background-color: yellow;
+}
+
+.stageChar{
+    font-size:10px;
+    color: black;
+    font:large
+}
+
+.stageSpeech{
+    font-size:6px;
+    color: black;
+    font:lighter
+}
+.sly{
+    color: peru;
+}
+
+.Hostess{
+    color:skyblue;
+}
+.lord{
+    color:teal;
+}
